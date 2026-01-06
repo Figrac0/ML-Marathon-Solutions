@@ -8,6 +8,20 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/main/img/1.png" width="450" height="600"/>
+</p>
+
+**Figure 1: Project File Structure**  
+This image shows the complete directory structure of the ML project, including training/test datasets, submission files, logs, and model outputs. Key files include `train.csv`, `test.csv`, submission files with different model configurations, and validation logs.
+
+<p align="center">
+  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/main/img/2.png" width="450" height="600"/>
+</p>
+
+**Figure 2: CatBoost Cross-Validation Results**  
+This image displays the detailed CatBoost training logs from 5-fold cross-validation. Each fold shows the progressive improvement of AUC scores, best iterations, early stopping triggers due to overfitting detection, and the final ensemble predictions for sample apartments.
+
 ## Problem Statement
 
 The task is to predict the probability that a Christmas tree in an apartment will survive until January 18th. The prediction is based on apartment characteristics and tree maintenance conditions. The dataset contains information from 30,000 apartments for training and 18,000 apartments for testing.

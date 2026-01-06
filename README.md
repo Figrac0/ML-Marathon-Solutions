@@ -1,5 +1,13 @@
 # Task 1: Christmas Tree Survival Prediction
 
+<div align="center">
+  <a href="https://colab.research.google.com/drive/1V_3PW32s4i6m9AQcWBq-M5eouJZ9zA3A?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab">
+    <br>
+    <strong>Click to open in Google Colab</strong>
+  </a>
+</div>
+
 ## Problem Statement
 
 The task is to predict the probability that a Christmas tree in an apartment will survive until January 18th. The prediction is based on apartment characteristics and tree maintenance conditions. The dataset contains information from 30,000 apartments for training and 18,000 apartments for testing.

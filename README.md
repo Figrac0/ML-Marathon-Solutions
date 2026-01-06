@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/main/img/1.png" width="250" height="200"/>
+  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/main/img/1.png" width="230" height="380"/>
 </p>
 
 **Figure 1: Project File Structure**  

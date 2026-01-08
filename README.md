@@ -24,6 +24,7 @@ This image shows the complete directory structure of the ML project, including t
 **Figure 2: CatBoost Cross-Validation Results**  
 This image displays the detailed CatBoost training logs from 5-fold cross-validation. Each fold shows the progressive improvement of AUC scores, best iterations, early stopping triggers due to overfitting detection, and the final ensemble predictions for sample apartments.
 
+
 ## Problem Statement
 
 The task is to predict the probability that a Christmas tree in an apartment will survive until January 18th. The prediction is based on apartment characteristics and tree maintenance conditions. The dataset contains information from 30,000 apartments for training and 18,000 apartments for testing.

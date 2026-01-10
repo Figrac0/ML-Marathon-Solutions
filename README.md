@@ -62,21 +62,21 @@ This approach leverages both distribution matching and direct regression benefit
 4. **Weighted Averaging**: Different model types can be assigned different weights
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/Third_Task_clean/screenshots/1.png" width="290" height="260"/>
+  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/Third_Task_clean/screenshots/1.png" width="250" height="530"/>
 </p>
 
 **Figure 1: Project Directory Structure**  
 Illustrates the comprehensive file organization including initial data archives (`train_images_covers.zip`, `test_images_covers.zip`), processed dataframes with image paths (`train_index.csv`, `test_index.csv`), model checkpoints from different training configurations, and final submission files. The structure supports reproducible experimentation with multiple model versions.
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/Third_Task_clean/screenshots/2.png" width="640" height="290"/>
+  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/Third_Task_clean/screenshots/2.png" width="780" height="630"/>
 </p>
 
 **Figure 2: Dataset Statistics and Extreme Examples**  
 Presents key statistical properties of the training targets including mean values (c=0.369, s=0.039), correlation analysis showing negative correlation between confetti and background components (-0.939), and visual examples of extreme cases. The top section shows images with highest confetti proportion (>0.53), while the bottom section displays cases with zero sausage content, highlighting dataset diversity.
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/Third_Task_clean/screenshots/3.png" width="620" height="180"/>
+  <img src="https://github.com/Figrac0/ML-Marathon-Solutions/blob/Third_Task_clean/screenshots/3.png" width="870" height="530"/>
 </p>
 
 **Figure 3: ConvNeXt-Tiny Training Progress (Fold 1)**  

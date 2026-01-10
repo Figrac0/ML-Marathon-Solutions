@@ -1,0 +1,6 @@
+fold,best_mae_avg,ckpt
+0,0.026127312511205675,/content/covers_work/outputs/checkpoints_v2/convnext_tiny_ema_mixup_sz320_fold0.pth
+1,0.02143505436182022,/content/covers_work/outputs/checkpoints_v2/convnext_tiny_ema_mixup_sz320_fold1.pth
+2,0.01582583387196064,/content/covers_work/outputs/checkpoints_v2/convnext_tiny_ema_mixup_sz320_fold2.pth
+3,0.022029631167650224,/content/covers_work/outputs/checkpoints_v2/convnext_tiny_ema_mixup_sz320_fold3.pth
+4,0.022021629810333253,/content/covers_work/outputs/checkpoints_v2/convnext_tiny_ema_mixup_sz320_fold4.pth

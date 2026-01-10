@@ -1,0 +1,6 @@
+fold,best_mae_avg,ckpt
+0,0.027609608441591264,/content/covers_work/outputs/checkpoints_ideal/convnext_small_sz384_fold0.pth
+1,0.04118346703052521,/content/covers_work/outputs/checkpoints_ideal/convnext_small_sz384_fold1.pth
+2,0.017266308069229127,/content/covers_work/outputs/checkpoints_ideal/convnext_small_sz384_fold2.pth
+3,0.0287396819293499,/content/covers_work/outputs/checkpoints_ideal/convnext_small_sz384_fold3.pth
+4,0.02399917569756508,/content/covers_work/outputs/checkpoints_ideal/convnext_small_sz384_fold4.pth

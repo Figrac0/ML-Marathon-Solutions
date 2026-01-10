@@ -1,0 +1,6 @@
+fold,best_mae_avg,ckpt
+0,0.006234028207138181,/content/covers_work/outputs/checkpoints/convnext_tiny_sz256_fold0.pth
+1,0.0059028514679521325,/content/covers_work/outputs/checkpoints/convnext_tiny_sz256_fold1.pth
+2,0.006290459123440087,/content/covers_work/outputs/checkpoints/convnext_tiny_sz256_fold2.pth
+3,0.0061792694237083196,/content/covers_work/outputs/checkpoints/convnext_tiny_sz256_fold3.pth
+4,0.0076311800796538595,/content/covers_work/outputs/checkpoints/convnext_tiny_sz256_fold4.pth
